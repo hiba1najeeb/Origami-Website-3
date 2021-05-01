@@ -1,0 +1,129 @@
+body{
+   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmXF0VKK2-qJtGgzRKFUE_kkwL3Lw7lQDD6g&usqp=CAU);
+}
+h1{
+    text-align: center;
+    font-size: 2cm;
+    background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgIBwcHCA0ICAcHBw0HBwcHBw8ICQcNIBEWIiARExMYHSggGBoxGx8fITEhJSkrLi4uFx8zODMsNygtLisBCgoKDQ0NDw0NDzcZFRkrKysrKy0rNzc3LSsrKysrKzcrLSsrLSstKysrKystKystKysrKystKysrKysrKysrK//AABEIALMBGQMBIgACEQEDEQH/xAAaAAADAQEBAQAAAAAAAAAAAAAAAQIDBQcE/8QAGBABAQEBAQAAAAAAAAAAAAAAABEBAhL/xAAZAQEBAQEBAQAAAAAAAAAAAAABAgADBQT/xAAXEQEBAQEAAAAAAAAAAAAAAAAAAREC/9oADAMBAAIRAxEAPwDxkzgj7HZIVBGJHghxiSsENlEoAEGIbEAQMQAGYiMaWItMtYENAYEAGYGAQDIMxmRsxmRhgZDGJmRhmMEVBChMEVBGKYcVBGJQ4cOAphxUOMrEw4cOA4mCKgY4mFFBtbEQKgh1sQS4UYYgKhQjEgwwIHCIAMMAZGzAyPGYwAzGCMMIUXBGbEwRcEY4mCKhwHEw4qHGOJgi4IFYmCLggOIgi4IxxEKNIUY4iFGkKMMZwo0hRtGM4UaQodGM4UaQoRiAqFCnCBwFiADAHgNmAAYAAMzaCNIIlSIIuHGZEOLhwFEEXDjKiIcXDgUzhxcEBRCjSCMrGcKNYUDYzhRpCjHGcKNIUYYzhRpuFCMZQo1hQ6nGUEabiYdGIhRpCh1OIgioIRiQcDAgZEAAMz7YcXBEFEOLgjFEOLhxiiHFw4xiIIuHApEEXDgVGcEXBApnBGkEBZQo1hQacZeS8tvKfLa2Mt5KNd5LeTrYx3C3Gu8luNqcZbiY1hQ6MZwo0hRWpxnCjSFDqcRCi4UOjEQKghGJhRUDDHS8iNIIkIgi4cZkQ4qHCyIcXBGw6mCLggxUqYIuCBcqIIuCJVKiFGkEFXGcKNIIFRlCjWCAsdwo1hbgbGW8p3ltvKd5OjGW8p3ltvKd5OjGW4ncbbyncOpxluFGu4ncOjGe4UabidxWpxEKLhQ6nEQRUEOjHVgi4cDlqIIuCKGohxUEbG1MOKghxtTDioIMVKmCKggxUpQRUETYuVMEVBE2OkqYUXBEqlRCjSCJWyhRrC3AWW4mNomMzLcTuNtxO4dbGW4ncbbidw6MY7hbjXcTuHRjLcLcabhbitTYy3CjTcLcKcZwouCFOOtBFwot8mpgioIqQamHDghwaUBg42kDDYdAhgWLlKHAE2LlEEM0WLlTBFCIsdJShRcKJsXKiCLhRK5UQo0hbgLLcLcabhbjFluJ3Gu4ncZmW4nca7idwtjLcLcabidxUqbGe4ncabhQ6mxnCi9wQpx1iioHeR5+phKCpE6kGS5BoAI42gyBxtMEBipTMjTYuUwRosXKZkbnY6SgGEWOkpQooIsXKmFuLhRC5UbidxpE7jLRuJ3Gm4ncBZ7iNxruJ3CzLcTuNNxO4Qz3C3F7idUmogiihDqg9J9UjytLSPSXIkiPSXINBDdJWAAqKcOmCorYZVGinU2KlUrEZp5qLFyrNJudi5VYCw3Ox0lMA3Ox0lIlE52LlTuFqi1LpKjU601O4ytZ6ncaajWKNxOr1OszPS1ep1QRuEsiHTLTJ90jxy0j0tXIE6NBauQEW6N1O6qQHSpbpU4yqKiithXTrOnRYppmnmozTzUWGVpmqzWearNc7FyrxWIxWa52LlUacNzsdJTADnY6SkSic7HSVGp1ep0OkqdRq9ToUjU6vU6zI1Or1O4WSShCHQLTD0I8dOp0BcSWp0guMWp0BUCdIBTEAGIPABTDxWAIpVisARTFYvAHOrh4og5V0isADnXTkFoDnXWFqdAS6ROp0BK4nU6AxTpaQIGkAzP/2Q==);
+    font-family: cookie ;
+}
+a{
+    color:rgb(0, 255, 0);
+
+
+    }
+    .bodyimg h3{
+        color:black;
+        font-size: 15px;
+        font-family:sans-serif;
+        text-align:center;
+        position:absolute;
+        transform:translate(0%, -200%);
+        
+        
+        
+}
+bodyimg{
+    position: relative;
+}
+.bodyimg p{
+    color:gold;
+    font-size: 35px;
+    font-family:Georgia;
+    text-align:center;
+    position:absolute;
+    transform:translate(-50%, -50%);
+    top:40%;
+    left:50%;
+    
+}
+.bodyimg h3{
+    color:silver;
+    font-size: 25px;
+    font-family:Georgia;
+    text-align:center;
+    position:absolute;
+    transform:translate(0%, -200%);
+    
+    
+}
+ .header{
+
+text-align: center;
+    color:white ;
+ 
+     justify-content: space-between;
+ }
+ .grid {
+
+color: rgb(255, 251, 0);
+     display: flex;
+     padding: 30px;
+     flex-wrap: wrap;
+     justify-content: space-around;
+     
+ }
+.grid img{
+    border: 5px double rgba(38, 0, 255, 0.473);
+padding: 30px;
+    border-radius: 40px;
+    background-color: white;
+   
+}
+
+.grid p{
+    color: rgb(255, 255, 255);
+}
+.item1 {
+    background-image: url(https://i.dlpng.com/static/png/6853140_preview.png);
+    padding: 30px;
+    
+  border-radius: 20px;
+
+ width: 400px;
+ 
+}
+
+.item2 {
+    background-color: black;
+    background-image: url(https://i.dlpng.com/static/png/6853140_preview.png);
+    padding: 30px;
+    
+  border-radius: 20px;
+ width: 400px;
+ 
+}
+.item3 {
+    background-color: black;
+    background-image: url(https://i.dlpng.com/static/png/6853140_preview.png);
+    padding: 30px;
+    
+  border-radius: 20px;
+ width: 400px;
+ 
+}
+.item4 {
+    background-color: black;
+    padding: 30px;
+    background-image: url(https://i.dlpng.com/static/png/6853140_preview.png);
+  border-radius: 20px;
+ width: 400px;
+ 
+}
+.item5 {
+    background-color: black;
+    padding: 30px;
+    background-image: url(https://i.dlpng.com/static/png/6853140_preview.png);
+  border-radius: 20px;
+ width: 400px;
+ 
+}
+.item6 {
+    background-color: black;
+    padding: 30px;
+    background-image: url(https://i.dlpng.com/static/png/6853140_preview.png);
+  border-radius: 20px;
+ width: 400px;
+ 
+ 
+}
